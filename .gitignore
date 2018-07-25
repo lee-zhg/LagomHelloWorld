@@ -14,8 +14,8 @@ logs
 hello-api\target
 hello-api\src\main\java\com\example\hello\api\HelloService.java
 hello-impl\target
-C:\lightbend\codePattern\projects\hello\hello-impl\src\main\resources\application.conf
-C:\lightbend\codePattern\projects\hello\hello-impl\src\main\java\com\example\hello\impl\HelloServiceImpl.java
-C:\lightbend\codePattern\projects\hello\hello-impl\src\main\java\com\example\hello\impl\HelloModule.java
-C:\lightbend\codePattern\projects\hello\hello-impl\src\test\java\com\example\hello\impl\HelloServiceTest.java
+hello-impl\src\main\resources\application.conf
+hello-impl\src\main\java\com\example\hello\impl\HelloServiceImpl.java
+hello-impl\src\main\java\com\example\hello\impl\HelloModule.java
+hello-impl\src\test\java\com\example\hello\impl\HelloServiceTest.java
 ToRun.txt
