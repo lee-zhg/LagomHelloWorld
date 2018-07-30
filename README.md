@@ -504,9 +504,9 @@ To run the Hello World sample code,
 
 <br>
 
-### Deploy the Hello World code to IBM Cloud
+## Deploy the Hello World code to IBM Cloud
 
-
+TBD
 
 
 
